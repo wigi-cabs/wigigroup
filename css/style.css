@@ -745,5 +745,17 @@ form .btn2{
     .secondHalf img {
         width: 160px
     }
+    .btn10 {
+    padding: 8px 17px;
+    font-size: 15px;
+    margin: 5px 81px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background: none;
+    color: white;
+    cursor: pointer;
+    transition: background 0.5s;
+    border: 1px solid white;
+}
 }
 
