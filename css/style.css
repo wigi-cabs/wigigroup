@@ -587,7 +587,7 @@ form .btn2{
         background: rgb(20, 20, 20) !important;
     }
     .particles-js-canvas-el{
-        height: 700px !important;
+        height: 600px !important;
     }
     .nav-list {
         flex-direction: column;
